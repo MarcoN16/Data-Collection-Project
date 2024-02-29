@@ -1,4 +1,4 @@
-# Data-Collection-challange
+# Data-Collection-Project
 
 In this project, I identified HTML elements on a webpage and utilized this knowledge to extract information through both automated browsing with Splinter and HTML parsing with Beautiful Soup.
 This project is divided in two parts: 
